@@ -1,10 +1,30 @@
 {
-  "name": "geojsonValidator",
+  "name": "geojsonvalidator",
   "version": "0.0.1",
   "description": "A geoJSON validator using is-my-json-valid",
   "main": "index.js",
-  "private": true,
-  "dependencies":{
-  	"is-my-json-valid" : "~2.12.0"
-  }
+  "private": false,
+  "dependencies": {
+    "is-my-json-valid": "~2.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maclachm/geojsonValidator.git"
+  },
+  "keywords": [
+    "geojson",
+    "validate",
+    "validator",
+    "json",
+    "schema"
+  ],
+  "author": "maclachm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maclachm/geojsonValidator/issues"
+  },
+  "homepage": "https://github.com/maclachm/geojsonValidator"
 }
