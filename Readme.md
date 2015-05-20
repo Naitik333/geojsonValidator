@@ -1,0 +1,1 @@
+Validates geojson using is-my-json-valid. Based off of the geojsonlint design & adapted as a node module.

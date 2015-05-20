@@ -1,0 +1,10 @@
+{
+  "name": "geojsonValidator",
+  "version": "0.0.1",
+  "description": "A geoJSON validator using is-my-json-valid",
+  "main": "index.js",
+  "private": true,
+  "dependencies":{
+  	"is-my-json-valid" : "~2.12.0"
+  }
+}
