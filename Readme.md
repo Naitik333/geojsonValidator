@@ -8,7 +8,7 @@
 
 ## usage
 ```javascript
-var geoval = require("geojson-validation");
+var geoval = require("geojsonvalidator");
 
 var polygon = { "type": "Polygon",
     "coordinates": 
